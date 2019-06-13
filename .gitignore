@@ -1,0 +1,8 @@
+.idea
+.gradle
+gradle
+
+node_modules
+
+test
+build
